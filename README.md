@@ -1,2 +1,2 @@
 # stepik-autotests-course
-?????????? ???? ?? stepik.org <3 https://stepik.org/course/575/
+Курс на stepik.org <3 https://stepik.org/course/575/
