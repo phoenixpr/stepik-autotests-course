@@ -1,0 +1,4 @@
+[
+  "less3_5_1.py::TestMainPage1::test_guest_should_see_login_link",
+  "less3_5_1.py::TestMainPage1::test_guest_should_see_basket_link_on_the_main_page"
+]
